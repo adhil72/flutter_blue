@@ -3,7 +3,7 @@ description:
   Flutter plugin for connecting and communicating with Bluetooth Low Energy devices,
   on Android and iOS
 version: 0.8.0
-homepage: https://github.com/pauldemarco/flutter_blue
+homepage: https://github.com/adhil72/flutter_blue
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
